@@ -23,7 +23,7 @@
 
 <p align="left">
   <a href="https://github.com/askell091"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github"/></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/wende096"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:wende08@proton.me"><img src="https://img.shields.io/badge/-Proton%20Mail-6D4AFF?style=flat&logo=protonmail&logoColor=white" alt="Proton"/></a>
 </p>
 
